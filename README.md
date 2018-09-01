@@ -1,2 +1,3 @@
 # This is a solution for POSist solution 
-the code is commented 
+read the comments in the code for description
+
